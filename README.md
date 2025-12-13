@@ -1,5 +1,3 @@
-# ✔️ **README.md جاهز – نسخة احترافية**
-
 ## **Ball Balancing and Throwing System**
 
 This project demonstrates an intelligent mechanism capable of balancing a ball at the center of a movable rudder, then launching it into a target basket using a controlled servo-based ejector system.
